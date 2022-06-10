@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <username>Nishat</username>
+    <fullname>Nishat</fullname>
+    <password>11223344</password>
+    <email>nishat@gmail.com</email>
+    <city>Rajshahi</city>
+    <gender>Female</gender>
+    <contact>11222331</contact>
+    <type>Manager</type>
+  </user>
+  <user>
+    <username>Nishat</username>
+    <fullname>Nishat</fullname>
+    <password>11223344</password>
+    <email>nishat@gmail.com</email>
+    <city>Rajshahi</city>
+    <gender>Female</gender>
+    <contact>11222331</contact>
+    <type>Manager</type>
+  </user>
+</users>

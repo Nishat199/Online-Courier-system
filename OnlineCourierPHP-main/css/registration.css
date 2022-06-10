@@ -1,0 +1,37 @@
+
+body{
+   background-image: url('../image/background.jpg');
+   color: white;
+
+}
+body{
+  padding: 100;
+}
+
+#city{
+    width: 182px;
+    text-align: right;
+}
+#state{
+    width: 182px;
+    text-align: right;
+}
+#city2{
+    width: 182px;
+    text-align: right;
+}
+#state2{
+    width: 182px;
+    text-align: right;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: black;
+}
+
+.bottom-right {
+  position: absolute;
+  bottom: 8px;
+  right: 80px;
+}

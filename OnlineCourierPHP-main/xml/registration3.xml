@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<users>
+    <user>
+    <username>Sabiha</username>
+    <fullname>Sanjida</fullname>
+    <password>87654321</password>
+    <email>sanjidanajbinsabiha@gmail.com</email>
+    <city>Dhaka</city>
+    <gender>Female</gender>
+    <contact>41056777</contact>
+    <type>Employee</type>
+  </user>
+  <user>
+    <username>Sabiha</username>
+    <fullname>Sanjida</fullname>
+    <password>87654321</password>
+    <email>sanjidanajbinsabiha@gmail.ciom</email>
+    <city>Dhaka</city>
+    <gender>Female</gender>
+    <contact>41056777</contact>
+    <type>Employee</type>
+  </user>
+  <user>
+    <username>Lucifer</username>
+    <fullname>Urizen</fullname>
+    <password>12345678</password>
+    <email>lucifermor@mail.com</email>
+    <city>Khulna</city>
+    <gender>Male</gender>
+    <contact>0921</contact>
+    <type>Employee</type>
+  </user>
+</users>
